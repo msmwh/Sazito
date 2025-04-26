@@ -1,0 +1,9 @@
+
+
+
+
+
+
+
+DATABASE_ADDRESS="mongodb://mongo-service:27017"
+

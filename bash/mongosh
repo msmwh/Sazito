@@ -1,0 +1,7 @@
+#TEST NETWORK POLICY WITH APP_LABEL AND SELECTOR
+
+kubectl run mongosh --image=docker2.haiocloud.com/alpine/mongosh --restart=Never --rm -it -- sh
+
+
+kubectl run mongosh --image=docker2.haiocloud.com/alpine/mongosh --restart=Never --rm -it --labels="app=my-app" -- sh
+
