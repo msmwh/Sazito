@@ -93,6 +93,10 @@ const logger = winston.createLogger({
   ]
 });
 ```
+![LOKI](https://github.com/user-attachments/assets/213ab3b2-b866-4f79-9b8a-49c225474e3f)
+![Monitoring](https://github.com/user-attachments/assets/7eb32d58-3e8d-4b81-8648-36d5143f8e54)
+
+
 
 ### Security Setup for the Sample App
 This section explains the security configurations implemented for the sample app, including RBAC (Role-Based Access Control) and Network Policies.
