@@ -12,7 +12,7 @@ In this project, I provisioned three virtual machines:
 
 This setup allows centralized management of the Kubernetes cluster from the management node.
 
-## Repo Content Overview Of
+## Repo Content Overview 
 - `k3s-ansible/` for bootstrapping K3s cluster  
 - `helm-charts/` for deploying applications like kube-prometheus for monitoring and Loki for logging  
 - `kustomize/` for managing app resources including deployments network policies ingress roles rolebindings and more  
