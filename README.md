@@ -124,7 +124,7 @@ The scaling is based on two main resource metrics:
 
 **HPA Configuration**
 The HPA is configured to scale the my-app deployment based on CPU and memory utilization. If the usage exceeds 50% of the defined resource request limits for CPU or memory, the HPA will trigger a scaling event to add more pods.
-```my-app-hpa   Deployment/my-app   cpu: 15%/50%, memory: 16%/50%  ```
+``` my-app-hpa   Deployment/my-app   cpu: 15%/50%, memory: 16%/50%   1         10        2          4m54s ```
 
 ### Conclusion
 
