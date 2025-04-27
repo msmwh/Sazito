@@ -1,3 +1,4 @@
+## Project Overview"
 
 In this project, I provisioned three virtual machines:  
 
@@ -52,7 +53,7 @@ The traffic flow for this application is as follows:
                 |
        [LoadBalancer Service]
                 |
-    [External LoadBalancer (HAProxy/Nginx)]
+    [External LoadBalancer (HAProxy/Nginx)]  ( not used yet)
                 |
         [User Web Traffic]
 ```
