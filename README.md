@@ -64,6 +64,7 @@ The traffic flow for this application is as follows:
 Prometheus collects data from the Kubernetes cluster, including metrics on CPU usage, memory, network traffic, and pod health, which can be queried for alerts or dashboards.
 2. Logging with Loki
 Loki is used to collect logs from all the pods running in the Kubernetes cluster. It integrates seamlessly with Prometheus and Grafana for a complete monitoring and logging solution.
+
 I add this code to log messages to both the console and Loki for centralized logging.
 
 ```
