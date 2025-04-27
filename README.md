@@ -105,7 +105,7 @@ We have defined a NetworkPolicy to restrict traffic between the MongoDB Pod and 
 ### Backup and Restore for Kubernetes Cluster
 
 1. Backup Process
-The backup process is handled through a bash script located in the backup repository. The script is executed on the master node, which retrieves the backup from the cluster and schedules regular backups.
+The backup process is handled through a bash script located in the bash directory within the repository. This script is executed on the master node, retrieves the backup from the cluster, and schedules regular backups.
 Backup Details:
 - The script is responsible for initiating and automating the backup process.
 - The cluster data for K3s is stored at the following path: ``` /var/lib/rancher/k3s/server/db/state.db ```
