@@ -1,4 +1,4 @@
-## Project Overview"
+## Project Overview
 
 In this project, I provisioned three virtual machines:  
 
