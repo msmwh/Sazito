@@ -21,7 +21,6 @@ This setup allows centralized management of the Kubernetes cluster from the mana
   - Backup script running every one minute on master node  
   - ServiceAccount creation script with kubeconfig generation targeting specific namespace and serviceaccount  
 - `vagrant/` Vagrantfile for VM provisioning if needed  
-- `kubeconfig` file for authenticating and managing the cluster  
 
 ## Overview Of Aample App Architecture
 
