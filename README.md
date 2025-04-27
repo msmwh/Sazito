@@ -22,7 +22,7 @@ This setup allows centralized management of the Kubernetes cluster from the mana
   - ServiceAccount creation script with kubeconfig generation targeting specific namespace and serviceaccount  
 - `vagrant/` Vagrantfile for VM provisioning if needed  
 
-## Overview Of Aample App Architecture
+## Sample App Overview Architecture
 
 This sample app consists of two primary pods:
 
