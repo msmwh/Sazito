@@ -128,4 +128,4 @@ The HPA is configured to scale the my-app deployment based on CPU and memory uti
 
 ### Conclusion
 
-This setup represents a sample environment running on a local machine (laptop). While this configuration provides a solid foundation for understanding key concepts like autoscaling, monitoring, and centralized logging, there is much more that can be done in a production-grade environment.:slightly_smiling_face:
+This setup represents a sample environment running on a local machine (laptop). While this configuration provides a solid foundation for understanding key concepts like autoscaling, monitoring, and centralized logging, there is much more that can be done in a production-grade environment. :slightly_smiling_face:
